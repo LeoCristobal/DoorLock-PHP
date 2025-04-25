@@ -9,7 +9,7 @@ $routes = [
     '/ReadID' => 'controllers/ReadIDController.php',
     "/editUser" => 'controllers/editController.php',
     "/deleteUser" => 'controllers/deleteController.php',
-
+    "/History" => 'controllers/historyController.php'
 
 ];
 
