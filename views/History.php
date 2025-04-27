@@ -3,7 +3,6 @@
 <?php require("partials/nav.php") ?>
 
 <div class="container mx-auto p-4">
-
     <div class="overflow-x-auto">
         <table class="min-w-full table-auto border-collapse shadow-lg mx-auto">
             <thead class="bg-[#10a0c5] text-white border-b-1 border-gray-300">
