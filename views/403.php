@@ -13,8 +13,5 @@
   <a href="/" class="text-blue-500 underline">Go back home.</a>
 </h1>
 
-
-
-
 </body>
 </html>
