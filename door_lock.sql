@@ -43,7 +43,7 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`user_id`, `name`, `id`, `gender`, `email`, `mobile`) VALUES
-(1, 'Alsan', '39EAB06D', 'Male', 'mydigitalnepal@gmail.com', '9800998787'),
+(1, 'Leo', '39EAB06D', 'Male', 'leo@gmail.com', '9800998787'),
 (2, 'John', '769174F8', 'Male', 'john@email.com', '23456789'),
 (3, 'Thvhm,b', '81A3DC79', 'Female', 'jgkhkkmanjil@gmail.com', '45768767564'),
 (4, 'The IoT Projects', '866080F8', 'Male', 'ask.theiotprojects@gmail.com', '9800988978');

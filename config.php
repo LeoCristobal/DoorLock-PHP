@@ -1,10 +1,11 @@
 <?php
 
+$env = parse_ini_file(__DIR__ . '/.env');
 return [
     'database' => [
-        'host' => '127.0.0.1',
-        'port' => '3306',
-        'dbname' => 'door_lock',
-        'charset' => 'utf8mb4',
+        'host' => $env['host'],
+        'port' => $env['port'],
+        'dbname' => $env['dbname'],
+        'charset' => $env['charset'],
     ],
 ];
