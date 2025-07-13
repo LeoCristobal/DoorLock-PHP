@@ -44,8 +44,8 @@ CREATE TABLE `user_info` (
 
 INSERT INTO `user_info` (`user_id`, `name`, `id`, `gender`, `email`, `mobile`) VALUES
 (1, 'Leo', '39EAB06D', 'Male', 'leo@gmail.com', '991252104'),
-(2, 'John', '769174F8', 'Male', 'john@email.com', '23456789'),
-(3, 'Enzo', '866080F8', 'Male', 'enzo@gmail.com', '123456789');
+(2, 'Azumi', '769174F8', 'Female', 'azumi@email.com', '23456789'),
+
 
 COMMIT;
 
